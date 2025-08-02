@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Indu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects
 
 ### [Resume Radar](https://github.com/indu613/ResumeRadar)
@@ -40,11 +34,6 @@ Internet and cable TV provisioning system website with efficient service managem
 
 ### [Quote Generator Chrome Extension](https://github.com/indu613/Quote-Generator)
 A Chrome extension that displays random motivational quotes with each tap.
-
----
-
-## 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical)](https://git.io/streak-stats)
 
 ---
 
