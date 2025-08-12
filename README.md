@@ -18,7 +18,7 @@
 
 ---
 
-### 🔎 Currently Exploring
+## 🔎 Currently Exploring
 
 - 🌐 Building full-stack apps with API integration (Flask, FastAPI, Node.js)
 - 🔐 Adding user authentication to web apps (JWT, session-based, Firebase Auth)
