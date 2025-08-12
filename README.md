@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Currently Exploring
+### 🔎 Currently Exploring
 
 - 🌐 Building full-stack apps with API integration (Flask, FastAPI, Node.js)
 - 🔐 Adding user authentication to web apps (JWT, session-based, Firebase Auth)
@@ -47,7 +47,7 @@ Internet and cable TV provisioning system website with efficient service managem
 A Chrome extension that displays random motivational quotes with each tap.
 
 
-### [Tic Tac Toe Game](https://github.com/indu613/Tic-Tac-Toe-Game)
+### [Tic Tac Toe Game](https://github.com/indu613/TicTacToe)
 A modern Tic Tac Toe game with **single & two player modes**, dark/light theme toggle, animations, etc – built using HTML, CSS, and JavaScript.
 
 ---
