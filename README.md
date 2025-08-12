@@ -1,6 +1,6 @@
 ## Hi there, I'm Indu 👋
 
-💡 AI/ML • Web Dev • Mobile Apps
+💡 I'm a developer passionate about solving real-world problems with **AI** and creating engaging **web** and **mobile** experiences✨
 
 ---
 
@@ -15,6 +15,17 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 🚀 Currently Exploring
+
+- 🌐 Building full-stack apps with API integration (Flask, FastAPI, Node.js)
+- 🔐 Adding user authentication to web apps (JWT, session-based, Firebase Auth)
+- ☁️ Hosting projects on platforms like Render, Railway, and Vercel
+- 🧱 Creating RESTful APIs and consuming them in web/mobile projects
+- 📊 Visualizing data using Plotly, Seaborn, and Dash
+- 📂 Structuring projects using clean, modular architecture
 
 ---
 
@@ -34,6 +45,10 @@ Internet and cable TV provisioning system website with efficient service managem
 
 ### [Quote Generator Chrome Extension](https://github.com/indu613/Quote-Generator)
 A Chrome extension that displays random motivational quotes with each tap.
+
+
+### [Tic Tac Toe Game](https://github.com/indu613/Tic-Tac-Toe-Game)
+A modern Tic Tac Toe game with **single & two player modes**, dark/light theme toggle, animations, etc – built using HTML, CSS, and JavaScript.
 
 ---
 
