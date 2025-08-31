@@ -34,6 +34,9 @@
 ### [Resume Radar](https://github.com/indu613/ResumeRadar)
 ML-powered resume screening & ranking mobile application using SBERT.
 
+### [FloodSense](https://github.com/Gopika-Gokulanadh/Code-Crafted--FloodSense-)
+AI-powered flood detection system using deep learning and satellite imagery segmentation.
+
 ### [CinePick](https://github.com/indu613/Code-Crafted--Movie-recommendation-system)
 Personalized movie recommender system using collaborative filtering, SVD, and content-based methods, developed using machine learning.
 
@@ -45,7 +48,6 @@ Internet and cable TV provisioning system website with efficient service managem
 
 ### [Quote Generator Chrome Extension](https://github.com/indu613/Quote-Generator)
 A Chrome extension that displays random motivational quotes with each tap.
-
 
 ### [Tic Tac Toe Game](https://github.com/indu613/TicTacToe)
 A modern Tic Tac Toe game with **single & two player modes**, dark/light theme toggle, animations, etc – built using HTML, CSS, and JavaScript.
